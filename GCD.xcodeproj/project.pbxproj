@@ -13,6 +13,7 @@
 		886A4DD02508C9F2000E1A6B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 886A4DCE2508C9F2000E1A6B /* Main.storyboard */; };
 		886A4DD22508C9F3000E1A6B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 886A4DD12508C9F3000E1A6B /* Assets.xcassets */; };
 		886A4DD52508C9F3000E1A6B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 886A4DD32508C9F3000E1A6B /* LaunchScreen.storyboard */; };
+		886A4DDD2508CEF7000E1A6B /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 886A4DDC2508CEF7000E1A6B /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		886A4DD12508C9F3000E1A6B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		886A4DD42508C9F3000E1A6B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		886A4DD62508C9F3000E1A6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		886A4DDC2508CEF7000E1A6B /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				886A4DC82508C9F2000E1A6B /* AppDelegate.swift */,
 				886A4DCA2508C9F2000E1A6B /* SceneDelegate.swift */,
 				886A4DCC2508C9F2000E1A6B /* ViewController.swift */,
+				886A4DDC2508CEF7000E1A6B /* SecondViewController.swift */,
 				886A4DCE2508C9F2000E1A6B /* Main.storyboard */,
 				886A4DD12508C9F3000E1A6B /* Assets.xcassets */,
 				886A4DD32508C9F3000E1A6B /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				886A4DDD2508CEF7000E1A6B /* SecondViewController.swift in Sources */,
 				886A4DCD2508C9F2000E1A6B /* ViewController.swift in Sources */,
 				886A4DC92508C9F2000E1A6B /* AppDelegate.swift in Sources */,
 				886A4DCB2508C9F2000E1A6B /* SceneDelegate.swift in Sources */,
